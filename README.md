@@ -16,8 +16,11 @@ features:
 blah blah blah follow these steps in chrome
 
 1. Download and Extract the Files
-1.1 to download full version (obfuscated but includes all exploits, will be updated if i get feature suggestions) click here: https://github.com/humanornot-something/randomcheatextension/raw/refs/heads/main/full.zip
-1.2: to download the lite version (minified but includes only human and bot detection, wont get updated) click here: https://github.com/humanornot-something/randomcheatextension/raw/refs/heads/main/lite.zip
+1.1 to download full version (obfuscated but includes all exploits, will be updated if i get feature suggestions) click here: 
+https://github.com/humanornot-something/randomcheatextension/raw/refs/heads/main/full.zip
+
+1.2 to download the lite version (minified but includes only human and bot detection, wont get updated) click here: 
+https://github.com/humanornot-something/randomcheatextension/raw/refs/heads/main/lite.zip
 *   extract the archive anywhere
 
 
